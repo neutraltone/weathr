@@ -1,0 +1,73 @@
+// Light theme
+.theme-light {
+
+	.weather-icon,
+	.weather-title,
+	.weather-desc {
+		color: hsl(0, 0%, 93%);
+	}
+
+	.location-form-container {
+		background: hsla(0, 0, 100, 0.2);
+
+		input {
+			border-color: hsl(0, 0%, 93%);
+
+			@include placeholder {
+				color: hsl(0, 0%, 93%);
+			}
+		}
+
+		input:focus {
+			background: hsla(0, 0, 50, .2);
+		}
+	}
+}
+
+// Dark theme
+.theme-dark {
+
+	.weather-icon,
+	.weather-title,
+	.weather-desc {
+		color: hsl(0, 0%, 27%);
+	}
+
+	.location-form-container {
+		background: hsla(0, 0, 0, 0.2);
+
+		input {
+			border-color: hsl(0, 0%, 27%);
+
+			@include placeholder {
+				color: hsl(0, 0%, 27%);
+			}
+		}
+
+		input:focus {
+			background: hsla(0, 0, 70, .2);
+		}
+	}
+}
+
+// Backgrounds
+.bg-lightning { background-image: url(/assets/img/weather-bg/bg-lightning.jpg); }
+.bg-thunder-storm { background-image: url(/assets/img/weather-bg/bg-thunder-storm.jpg); }
+.bg-drizzle { background-image: url(/assets/img/weather-bg/bg-drizzle.jpg); }
+.bg-rain-mix { background-image: url(/assets/img/weather-bg/bg-rain-mix.jpg); }
+.bg-rain { background-image: url(/assets/img/weather-bg/bg-rain.jpg); }
+.bg-snow { background-image: url(/assets/img/weather-bg/bg-snow.jpg); }
+.bg-sleet { background-image: url(/assets/img/weather-bg/bg-sleet.jpg); }
+.bg-mist { background-image: url(/assets/img/weather-bg/bg-mist.jpg); }
+.bg-fog { background-image: url(/assets/img/weather-bg/bg-fog.jpg); }
+.bg-haze { background-image: url(/assets/img/weather-bg/bg-haze.jpg); }
+.bg-tornado { background-image: url(/assets/img/weather-bg/bg-tornado.jpg); }
+.bg-hurricane { background-image: url(/assets/img/weather-bg/bg-hurricane.jpg); }
+.bg-clear { background-image: url(/assets/img/weather-bg/bg-clear.jpg); }
+.bg-scattered-clouds { background-image: url(/assets/img/weather-bg/bg-scattered-clouds.jpg); }
+.bg-overcast { background-image: url(/assets/img/weather-bg/bg-overcast.jpg); }
+.bg-cold { background-image: url(/assets/img/weather-bg/bg-cold.jpg); }
+.bg-hot { background-image: url(/assets/img/weather-bg/bg-hot.jpg); }
+.bg-wind { background-image: url(/assets/img/weather-bg/bg-wind.jpg); }
+.bg-strong-wind { background-image: url(/assets/img/weather-bg/bg-strong-wind.jpg); }
+.bg-calm { background-image: url(/assets/img/weather-bg/bg-calm.jpg); }

@@ -1,0 +1,522 @@
+{
+   "weatherAssets":[
+        {
+    		"id": 200,
+			"icon": "wi-storm-showers",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 201,
+			"icon": "wi-storm-showers",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 202,
+			"icon": "wi-thunderstorm",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 210,
+			"icon": "wi-lightning",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 211,
+			"icon": "wi-lightning",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 212,
+			"icon": "wi-lightning",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 221,
+			"icon": "wi-lightning",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 230,
+			"icon": "wi-storm-showers",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 231,
+			"icon": "wi-storm-showers",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 232,
+			"icon": "wi-storm-showers",
+			"background": "bg-lightning",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 300,
+			"icon": "wi-sprinkle",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 301,
+			"icon": "wi-sprinkle",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 302,
+			"icon": "wi-sprinkle",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 310,
+			"icon": "wi-sprinkle",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 311,
+			"icon": "wi-rain-mix",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 312,
+			"icon": "wi-rain-mix",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 313,
+			"icon": "wi-rain-mix",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 314,
+			"icon": "wi-rain-mix",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 321,
+			"icon": "wi-rain-mix",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 500,
+			"icon": "wi-showers",
+			"background": "bg-drizzle",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 501,
+			"icon": "wi-showers",
+			"background": "bg-rain",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 502,
+			"icon": "wi-rain",
+			"background": "bg-rain",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 503,
+			"icon": "wi-rain",
+			"background": "bg-rain",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 504,
+			"icon": "wi-rain",
+			"background": "bg-rain",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 511,
+			"icon": "wi-snow",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 520,
+			"icon": "wi-showers",
+			"background": "bg-rain-mix",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 521,
+			"icon": "wi-showers",
+			"background": "bg-rain-mix",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 522,
+			"icon": "wi-rain-mix",
+			"background": "bg-rain-mix",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 531,
+			"icon": "wi-rain-mix",
+			"background": "bg-rain",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 600,
+			"icon": "wi-snow",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 601,
+			"icon": "wi-snow",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 602,
+			"icon": "wi-snow",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 611,
+			"icon": "wi-rain-mix",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 612,
+			"icon": "wi-rain-mix",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 615,
+			"icon": "wi-rain-mix",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 616,
+			"icon": "wi-rain-mix",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 620,
+			"icon": "wi-rain-mix",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 621,
+			"icon": "wi-rain-mix",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 622,
+			"icon": "wi-rain-mix",
+			"background": "bg-snow",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 701,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 711,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 721,
+			"icon": "wi-fog",
+			"background": "bg-haze",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 731,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 741,
+			"icon": "wi-fog",
+			"background": "bg-fog",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 751,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 761,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 762,
+			"icon": "wi-fog",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 771,
+			"icon": "wi-strong-wind",
+			"background": "bg-mist",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 781,
+			"icon": "wi-tornado",
+			"background": "bg-tornado",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 800,
+			"icon": "wi-day-sunny",
+			"background": "bg-clear",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 801,
+			"icon": "wi-day-sunny-overcast",
+			"background": "bg-scattered-clouds",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 802,
+			"icon": "wi-day-sunny-overcast",
+			"background": "bg-scattered-clouds",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 803,
+			"icon": "wi-day-cloudy",
+			"background": "bg-scattered-clouds",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 804,
+			"icon": "wi-cloudy",
+			"background": "bg-overcast",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 900,
+			"icon": "wi-tornado",
+			"background": "bg-tornado",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 901,
+			"icon": "wi-thunderstorm",
+			"background": "bg-thunder-storm",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 902,
+			"icon": "wi-tornado",
+			"background": "bg-hurricane",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 903,
+			"icon": "wi-down",
+			"background": "bg-cold",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 904,
+			"icon": "wi-day-sunny",
+			"background": "bg-hot",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 905,
+			"icon": "wi-strong-wind",
+			"background": "bg-strong-wind",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 906,
+			"icon": "wi-hail",
+			"background": "bg-sleet",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 950,
+			"icon": "wi-day-sunny",
+			"background": "bg-calm",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 951,
+			"icon": "wi-day-sunny",
+			"background": "bg-calm",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 952,
+			"icon": "wi-windy",
+			"background": "bg-scattered-clouds",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 953,
+			"icon": "wi-windy",
+			"background": "bg-scattered-clouds",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-dark"
+        },
+        {
+    		"id": 954,
+			"icon": "wi-windy",
+			"background": "bg-wind",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 955,
+			"icon": "wi-windy",
+			"background": "bg-wind",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 956,
+			"icon": "wi-windy",
+			"background": "bg-wind",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 957,
+			"icon": "wi-strong-wind",
+			"background": "bg-strong-wind",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 958,
+			"icon": "wi-strong-wind",
+			"background": "bg-strong-wind",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 959,
+			"icon": "wi-strong-wind",
+			"background": "bg-strong-wind",
+            "iconTheme": "theme-dark",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 960,
+			"icon": "wi-strong-wind",
+			"background": "bg-hurricane",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 961,
+			"icon": "wi-thunderstorm",
+			"background": "bg-hurricane",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        },
+        {
+    		"id": 962,
+			"icon": "wi-tornado",
+			"background": "bg-hurricane",
+            "iconTheme": "theme-light",
+            "formTheme": "theme-light"
+        }
+   ]
+}

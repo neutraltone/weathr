@@ -1,0 +1,40 @@
+{
+	"coord": {
+		"lon": 1.45,
+		"lat": 52.47
+	},
+	"sys": {
+		"message": 0.0106,
+		"country": "GB",
+		"sunrise": 1388217880,
+		"sunset": 1388245649
+	},
+	"weather": [
+		{
+			"id": 802,
+			"main": "Clouds",
+			"description": "scattered clouds",
+			"icon": "03n"
+		}
+	],
+	"base": "cmc stations",
+	"main": {
+		"temp": 275.08,
+		"pressure": 1004,
+		"temp_min": 274.82,
+		"temp_max": 275.37,
+		"humidity": 95
+	},
+	"wind": {
+		"speed": 1.54,
+		"gust": 3.6,
+		"deg": 273
+	},
+	"clouds": {
+		"all": 36
+	},
+	"dt": 1388273027,
+	"id": 2656067,
+	"name": "Beccles",
+	"cod": 200
+}
