@@ -1,0 +1,9 @@
+input {
+	background: none;
+	border: 1px solid transparent;
+	border-radius: .4em;
+	outline: 0;
+	text-align: center;
+	/* mixins */
+	@include transition (all 1s ease-in-out);
+}

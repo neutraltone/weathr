@@ -1,0 +1,31 @@
+// Default Typography
+body {
+		font-size: 75%;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: 300;
+	letter-spacing: .1em;
+}
+
+p {
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+// Placeholder Text color
+::-webkit-input-placeholder {
+   color: hsl(0,0,27);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: hsl(0,0,27);
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: hsl(0,0,27);
+}
+
+:-ms-input-placeholder {
+   color: hsl(0,0,27);
+}

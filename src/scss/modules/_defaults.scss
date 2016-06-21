@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+html, body {
+	margin: 0; padding: 0;
+	height: 100%;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font: 300 13px/1.6 $primaryFonts;
+	color: #444;
+	position: relative;
+	background: url(/assets/img/home-bg.png) center center;
+}
